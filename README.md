@@ -1,0 +1,1 @@
+The goal of this project is to study mobile phone dataset (2025) containing detailed specifications and official launch prices of various mobile phone models from different companies, and to provide insights into smartphone hardware, pricing trends, and brand competitiveness across multiple countries. 
